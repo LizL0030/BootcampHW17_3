@@ -114,7 +114,7 @@ body {
 .uxed a{
     color: #fff;
     text-decoration: none;
-    overflow-wrap: normal;
+    word-wrap: break-word;
 }
 .lmsdesign a {
     color: #fff;
