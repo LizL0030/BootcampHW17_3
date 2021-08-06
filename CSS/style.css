@@ -110,6 +110,7 @@ body {
   .viewresume a {
     color: #fff;
     text-decoration: none;
+    text-align: center;
 }
 .uxed a{
     color: #fff;
@@ -119,6 +120,7 @@ body {
 .lmsdesign a {
     color: #fff;
     text-decoration: none;
+    text-align: center;
 }
   footer {
     margin-top: 100px;
