@@ -114,7 +114,7 @@ body {
 .uxed a{
     color: #fff;
     text-decoration: none;
-    word-wrap: break-word;
+    text-align: center;
 }
 .lmsdesign a {
     color: #fff;
