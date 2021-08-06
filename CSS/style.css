@@ -68,6 +68,46 @@ body {
     background-image: url(../Images/Headshot-1.png);
   }
 
+  .viewresume {
+    margin: 10% 6.333%;
+    background-color:#ADBB0D;
+    color: white;
+    width: 290px;
+    height: 290px;
+    font-size: 36px;
+    font-weight: 700;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center; 
+    justify-content: center;
+  }
+  .uxed {
+    margin: 10% 6.333%;
+    background-color:#D64168;
+    color: #FFFFFF;
+    width: 290px;
+    height: 290px;
+    font-size: 36px;
+    font-weight: 700;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center; 
+    justify-content: center;
+  }
+  .lmsdesign {
+    margin: 10% 6.333%;
+    background-color:#103A72;
+    color: #FFFFFF;
+    width: 290px;
+    height: 290px;
+    font-size: 36px;
+    font-weight: 700;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center; 
+    justify-content: center;
+  }
+
   footer {
     margin-top: 100px;
     display: flex;
